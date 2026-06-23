@@ -9,10 +9,7 @@ Play the game instantly in your browser here: 👉 **[Rubik's Race Live](https:/
 * **GUI Framework:** Java Swing / AWT (Abstract Window Toolkit)
 * **Web Deployment:** [CheerpJ v4.3](https://leaningtech.com/cheerpj/) (Java bytecode to WebAssembly runtime architecture)
 * **Hosting Platform:** GitHub Pages
-  
-## 💻 Local Desktop Setup
 
-If you prefer to download and run the executable application natively on your computer:
+## 💻 Full Code & Local Setup
 
-### Prerequisites
-Download ``rubiks-race.jar``. Make sure you have Java Runtime Environment (JRE) or Java Development Kit (JDK) 17 or higher installed. 
+The source code for this application can be found in **[this repository]([https://github.com](https://github.com/vinukranaweera/rubiks-race-game))** as well as instructions on how to run it on your local desktop.
