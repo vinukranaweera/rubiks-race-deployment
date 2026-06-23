@@ -12,4 +12,4 @@ Play the game instantly in your browser here: 👉 **[Rubik's Race Live](https:/
 
 ## 💻 Full Code & Local Setup
 
-The source code for this application can be found in **[this repository]([https://github.com](https://github.com/vinukranaweera/rubiks-race-game))** as well as instructions on how to run it on your local desktop.
+The source code for this application can be found in **[this repository](https://github.com/vinukranaweera/rubiks-race-game)** as well as instructions on how to run it on your local desktop.
